@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @unthrived
-- 👀 I’m interested in Computer Vision
+- 👀 I’m interested in Neuroscience
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me junn#8709
+- 📫 How to reach me junn#8709 on Discord
 
 <!---
 unthrived/unthrived is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
