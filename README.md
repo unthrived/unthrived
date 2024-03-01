@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unthrived
-- 👀 I’m interested in Neuroscience
-- 🌱 I’m currently learning
-- 📫 How to reach me: hiimjun on Discord
+- 👀 I’m interested in AI, Machine Learning and Neuroscience
+- 🌱 I’m currently a Data Scientist @ Hospital del Mar
+- 📫 How to reach me: https://www.junjieji.com
 
 <!---
 unthrived/unthrived is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
