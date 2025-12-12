@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unthrived
 - 👀 I’m interested in AI, Maths and Finance
-- 🌱 I’m currently a Data Scientist @ Hospital del Mar
+- 🌱 I’m currently a Senior Data Scientist @ Hospital del Mar
 - 📫 How to reach me: https://www.junjieji.com
 
 <!---
